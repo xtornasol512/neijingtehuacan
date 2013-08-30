@@ -1,0 +1,37 @@
+  o__ __o     o                                             
+ <|     v\   <|>                                            
+ / \     <\  / >                                            
+ \o/     o/  \o__ __o     o      o   \o__ __o     o__ __o   
+  |__  _<|/   |     v\   <|>    <|>   |     |>   /v     v\  
+  |          / \     <\  < >    < >  / \   < >  />       <\ 
+ <o>         \o/     o/   \o    o/   \o/        \         / 
+  |           |     <|     v\  /v     |          o       o  
+ / \         / \    / \     <\/>     / \         <\__ __/>  
+                             /                              
+                            o                               
+                         __/>                               
+    o__ __o                                                                
+   /v     v\                                                               
+  />       <\                                                              
+ _\o____          o__  __o   \o__ __o    o      o     o__  __o   \o__ __o  
+      \_\__o__   /v      |>   |     |>  <|>    <|>   /v      |>   |     |> 
+            \   />      //   / \   < >  < >    < >  />      //   / \   < > 
+  \         /   \o    o/     \o/         \o    o/   \o    o/     \o/       
+   o       o     v\  /v __o   |           v\  /v     v\  /v __o   |        
+   <\__ __/>      <\/> __/>  / \           <\/>       <\/> __/>  / \    
+
+
+/* TEAM */
+    Client: Neijing Tehuacan
+    Designer & Developer: Jesus Alvarado Garzon
+    Contact: info [at] phyroserver.com
+    Twitter: @xtornasol512
+    G+: https://plus.google.com/106876007161547457170
+    From: Puebla, Mexico.
+
+/* SITE */
+    Last update: weekly 
+    Language: Castellano
+    Doctype:HTML5  
+    Standards: HTML5, CSS3, JavaScript
+    Software: Sublime Text, Gimp, inskcape
