@@ -1,6 +1,13 @@
-neijingtehuacan
+Neijingtehuacan
 ===============
 
-Pagina Oficial de Neijing Tehuacan
+#Pagina Oficial de Neijing Tehuacan
 
-Template GroundworkCSS
+Powered by 
+
+Template GroundworkCSS 
+Galerias Owl Carousel.js
+Menu Navgoco.js
+html5, css3, javascript
+
+
