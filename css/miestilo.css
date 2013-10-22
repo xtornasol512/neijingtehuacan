@@ -122,6 +122,9 @@ text-decoration: none;
   padding-top: 28px;
 
 }
+.Banner h2 a {
+  text-decoration: none;
+}
 .bannerMenu{
   background: url(../images/baner/bgMenu.png) no-repeat;
   background-size: 100% 100%;
