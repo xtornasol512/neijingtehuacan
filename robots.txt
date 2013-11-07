@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /pages/templates/
+Disallow: /cgi-bin/
