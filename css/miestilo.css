@@ -125,6 +125,9 @@ text-decoration: none;
 .Banner h2 a {
   text-decoration: none;
 }
+.Banner p {
+  color: gray;
+}
 .bannerMenu{
   background: url(../images/baner/bgMenu.png) no-repeat;
   background-size: 100% 100%;
