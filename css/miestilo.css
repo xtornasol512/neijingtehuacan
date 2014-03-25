@@ -128,6 +128,7 @@ text-decoration: none;
 .Banner p, .Banner p a {
   
   text-decoration: none;
+  font-size: 1.15em;
 }
 .bannerMenu{
   background: url(../images/baner/bgMenu.png) no-repeat;
