@@ -14,6 +14,10 @@ header h2 img {
   width: 100px;
   height: 33px
 }
+table.blue thead tr th, table.blue thead tr td {
+background: #0072BE;
+color: white;
+}
 
 footer{
   font-family: Arial;
@@ -21,6 +25,7 @@ footer{
   font-weight: bold;
   text-align: center;
 }
+
 #progress {
     position: absolute;
     bottom: 0;
@@ -135,7 +140,10 @@ text-decoration: none;
   background-size: 100% 100%;
   padding-top: 10px;
   
-} 
+}
+.grayTable{
+  color: gray;
+}
 .callout, [role~=status] {
   background: #1C75BB;
 }
@@ -191,6 +199,9 @@ text-decoration: none;
   height: 120px;
   width: 250px;
   
+}
+.vertical-align-middle{
+  vertical-align: middle;
 }
 ul.button-list li a.blue{
   background-color: #1C75BB;  
