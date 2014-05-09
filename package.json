@@ -1,0 +1,33 @@
+{
+  "name": "neijingtehuacan",
+  "version": "0.0.1",
+  "description": "Pagina Oficial Neijing Tehuacan",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xtornasol512/neijingtehuacan.git"
+  },
+  "keywords": [
+    "neijingtehuacan",
+    "html5",
+    "css",
+    "js"
+  ],
+  "author": "Jesus A. Garzon",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/xtornasol512/neijingtehuacan/issues"
+  },
+  "homepage": "https://github.com/xtornasol512/neijingtehuacan",
+  "devDependencies": {
+    "gulp": "^3.6.2"
+  },
+  "dependencies": {
+    "gulp-minify-css": "^0.3.4",
+    "gulp-minify-html": "^0.1.3",
+    "gulp-uglify": "^0.2.1"
+  }
+}
